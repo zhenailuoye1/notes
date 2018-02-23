@@ -1,1 +1,2 @@
 # hasOwnProperty()
+# insertAdjacentHTML()
